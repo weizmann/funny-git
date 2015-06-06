@@ -1,0 +1,11 @@
+Gerrit is a popular code review tool under git;
+
+This repository is aiming at experiencing the gerrit workflow;
+
+Some useful guide linkages are below:
+
+- gerrit review Documentations on Google Source
+https://gerrit-review.googlesource.com/Documentation/intro-quick.html
+
+- OpenStack project workflow, which is based on gerrit
+http://docs.openstack.org/infra/manual/index.html
