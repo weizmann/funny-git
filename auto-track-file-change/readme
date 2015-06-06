@@ -1,0 +1,12 @@
+Let git track on every change you have made on your documents~
+
+It is something like the following stackoverflow discussion:
+http://stackoverflow.com/questions/420143/making-git-auto-commit
+
+And I am working on Mac, so the 'fswatch' command is very important in this funny project:
+http://stackoverflow.com/questions/1515730/is-there-a-command-like-watch-or-inotifywait-on-the-mac
+
+Crontab job is also very helpful when you want to make check jobs work period after period:
+http://superuser.com/questions/629898/how-to-auto-commit-to-my-git-repository-using-cron
+http://superuser.com/questions/264710/how-do-i-create-a-cron-job-that-will-commit-my-project-changes-to-git-on-a-weekl
+
